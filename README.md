@@ -1,2 +1,2 @@
 # machineL-dev
-Machine learning proejct
+Machine learning project
